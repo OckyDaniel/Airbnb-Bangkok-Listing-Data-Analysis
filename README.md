@@ -1,4 +1,5 @@
 Distrik Bangkok Geojson -> [link](https://github.com/pcrete/gsvloader-demo/blob/master/geojson/Bangkok-districts.geojson)
+Link Tableau -> [link](https://public.tableau.com/app/profile/ocky.naibaho/viz/AirbnbBangkokDataAnalysis/Dashboard1#1)
 
 # Latar Belakang
 Airbnb adalah sebuah platform yang menawarkan suatu tempat online yang memungkinkan para pengguna ("Anggota") untuk mempublikasikan, menawarkan, mencari, dan memesan layanan. Pada Capstone project ini akan melakukan analisis dari data listing airbnb bangkok.
